@@ -1,9 +1,6 @@
 <h1 align="center">Hi Hola 👋 ,I'm Braindead</h1>
 <h3 align="center">A Passionate Developer From India.🇮🇳</h3>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=braindead2408" alt="braindead2408" /></a> </p>
-
 - 🔭 I’m currently working on **Android Dev And Py**
 
 - 🌱 I’m currently learning **Python**
