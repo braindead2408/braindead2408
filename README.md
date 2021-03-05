@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Android Dev And Py**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python** **And** **Pentesting**
 
 - 📫 How to reach me <a href="mailto:brainsniper2408@gmail.com">Gmail</a>
 
