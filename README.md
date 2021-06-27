@@ -1,7 +1,7 @@
 <h1 align="center">Hi Hola 👋 ,I'm Braindead</h1>
 <h3 align="center">A Passionate Developer From India.🇮🇳</h3>
 
-- 🔭 I’m currently working on **Android Dev And Py**
+- 🔭 I’m currently working on **Pentesting And Py**
 
 - 🌱 I’m currently learning **Python** **And** **Pentesting**
 
