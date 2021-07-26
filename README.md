@@ -1,9 +1,9 @@
-<h1 align="center">Hi Hola 👋 ,I'm Braindead</h1>
-<h3 align="center">A Passionate Developer From India.🇮🇳</h3>
+<h1 align="center">Hi 👋 ,I'm Braindead</h1>
+<h3 align="center">A Passionate Guy From India.🇮🇳</h3>
 
 - 🔭 I’m currently working on **Pentesting**
 
-- 🌱 I’m currently learning **Pentesting**
+- 🌱 I’m currently learning **Penetration Testing From OffSec.**
 
 - 📫 How to reach me <a href="mailto:brainsniper2408@gmail.com">Gmail</a>
 
