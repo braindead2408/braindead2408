@@ -1,5 +1,5 @@
 <p align="center"> <img src="braindead2408.png" alt="me!"/></p>
-<h1 align="center">Hi 👋 ,I'm Tanmay Nagepatil</h1>
+<h1 align="center">Hi 👋, I'm Tanmay Nagepatil</h1>
 <h3 align="center">A Passionate Guy From India</h3>
 
 - 🔭 I’m currently working on **Pentesting** **RedHat Linux**
