@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋 ,I'm Braindead</h1>
+<h1 align="center">Hi 👋 ,I'm Tanmay Nagepatil</h1>
 <h3 align="center">A Passionate Guy From India.🇮🇳</h3>
 
-- 🔭 I’m currently working on **Pentesting**
+- 🔭 I’m currently working on **Pentesting** **RedHat Linux**
 
 - 🌱 I’m currently learning **Penetration Testing From OffSec.**
 
