@@ -1,4 +1,4 @@
-<img>braindead2408.png</img>
+<p align="center"> <img src="braindead2408.png" alt="me!"/></p>
 <h1 align="center">Hi 👋 ,I'm Tanmay Nagepatil</h1>
 <h3 align="center">A Passionate Guy From India.🇮🇳</h3>
 
