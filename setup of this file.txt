@@ -1,0 +1,5 @@
+fork repo
+rename repo to your username of github
+as soon as you change repo name to github username 
+you will see right side Readme notification
+and now make changes it'll appear on your Overview section.
