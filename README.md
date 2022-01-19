@@ -42,9 +42,6 @@
 
 <h1>
   Connect With Me
-  <a target="_blank">
-    <img src="https://github.com/braindead2408/braindead/blob/main/GIF/Handshake.gif" height="25px" style="max-width:100%;">
-  </a>
 </h1>
 
 
