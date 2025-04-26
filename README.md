@@ -4,7 +4,7 @@
     <img src="https://github.com/braindead2408/braindead2408/blob/main/GIF/Hi.gif" width="40px" />
   </a>
 </h1>
-<p align="center"> <img src="braindead2408.png" alt="me!"/></p>
+<p align="center"> <img src="braindead2408_edited.png" alt="me!"/></p>
 <br/>
 <a target="_blank">
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/braindead2408/braindead2408/blob/main/GIF/code.gif">
