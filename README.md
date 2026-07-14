@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Tanmay Nagepatil</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Associate+Manager+%40+Tata+Digital;Full+Stack+Developer;DevOps+Enthusiast;AI+%7C+LLMs+%7C+Automation;Building+Things+That+Matter" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Associate+Manager+%40+Tata+Digital;Full+Stack+Developer;AI+%7C+LLMs+%7C+Automation;Building+Things+That+Matter" />
 </p>
 
 <p align="center">
@@ -39,7 +39,32 @@ Currently Building:
   - LLM Tools
   - DevOps Utilities
 ```
+# 🚀 Founder • RootDevs
 
+<p align="center">
+  <a href="https://www.rootdevs.com/en">
+    <img src="https://img.shields.io/badge/🌐_Visit_RootDevs-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+</p>
+
+> Building modern software for startups and businesses.
+
+RootDevs helps startups and businesses build scalable digital products—from MVPs to enterprise-grade web and mobile applications—with a focus on quality, performance, and long-term maintainability. :contentReference[oaicite:0]{index=0}
+
+### What we build
+
+- 🌐 Web Applications
+- 📱 Mobile Apps
+- ☁️ Cloud & DevOps
+- 🤖 AI Integrations
+- ⚡ MVP Development
+- 🛠 Custom Software Solutions
+
+<p align="center">
+<a href="https://www.rootdevs.com/en">
+<img src="https://img.shields.io/badge/Explore-RootDevs-6C63FF?style=for-the-badge"/>
+</a>
+</p>
 ---
 
 # 👨‍💻 Currently Working On
