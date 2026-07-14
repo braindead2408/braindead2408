@@ -1,68 +1,172 @@
-<h1>
-  Hello, I am Tanmay
-  <a target="_blank">
-    <img src="https://github.com/braindead2408/braindead2408/blob/main/GIF/Hi.gif" width="40px" />
-  </a>
-</h1>
-<p align="center"> <img src="braindead2408_edited.png" alt="me!"/></p>
-<br/>
-<a target="_blank">
-  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/braindead2408/braindead2408/blob/main/GIF/code.gif">
-</a>
+<!-- ========================= -->
+<!--          HEADER          -->
+<!-- ========================= -->
 
-- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **React & Supabase**
-- 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **Development Project regarding Product**
-- 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://www.minimalistblogger.space/about) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
-- 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜**
-- ⚡ Quote : **Live In Present**
-- ✨Read My Blog At: [MinimalistBlogger](https://minimalistblogger.space)
-<br/>
+<h1 align="center">Hi 👋, I'm Tanmay Nagepatil</h1>
 
-## My skills 🚀
-![](https://img.shields.io/badge/Redhat-FF2D20?style=for-the-badge&logo=redhat&logoColor=white)
-![](https://img.shields.io/badge/Ansible-FF2D20?style=for-the-badge&logo=Ansible&logoColor=white)
-![](https://img.shields.io/badge/Docker-430098?style=for-the-badge&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Associate+Manager+%40+Tata+Digital;Full+Stack+Developer;DevOps+Enthusiast;AI+%7C+LLMs+%7C+Automation;Building+Things+That+Matter" />
+</p>
 
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050816,20:0B1026,50:141B4D,100:00E5FF&text=BrainDead2408&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=38&desc=Developer%20%E2%80%A2%20DevOps%20%E2%80%A2%20AI%20%E2%80%A2%20Automation&descAlignY=58"/>
+</p>
 
+---
 
-## GitHub Analytics ⚙️ &nbsp; 
+# 💫 About Me
+
+```yaml
+Name: Tanmay Nagepatil
+
+Role:
+  Associate Manager @ Tata Digital
+
+Education:
+  MCA - Data Science
+
+Interests:
+  - AI
+  - DevOps
+  - Cloud
+  - System Design
+  - Open Source
+  - Automation
+
+Currently Building:
+  - POS System
+  - AI Agents
+  - LLM Tools
+  - DevOps Utilities
+```
+
+---
+
+# 👨‍💻 Currently Working On
+
+- 🚀 AI Agents
+- 🤖 Local LLMs
+- 📦 POS SaaS
+- 🧠 Automation using Python
+
+---
+
+# ⚡ Tech Stack
+
+## Languages
 
 <p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,ts,js,html,css,bash,mysql"/>
+</p>
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind"/>
+</p>
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,supabase,firebase"/>
+</p>
+
+## DevOps & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,aws,gcp,linux,git,github"/>
+</p>
+
+## AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=python"/>
+</p>
+
+OpenAI • Pandas • NumPy • SpaCy • Scikit-Learn
+
+---
+
+# 📂 Featured Projects
+
 <a href="https://github.com/braindead2408">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=braindead2408&show_icons=true&theme=vue-light&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=braindead2408&layout=compact&exclude_lang=java+r&theme=vue-light" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=braindead2408&repo=YOUR_REPO_1&theme=tokyonight"/>
 </a>
+
+<a href="https://github.com/braindead2408">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=braindead2408&repo=YOUR_REPO_2&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/braindead2408">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=braindead2408&repo=YOUR_REPO_3&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/braindead2408">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=braindead2408&repo=YOUR_REPO_4&theme=tokyonight"/>
+</a>
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=braindead2408&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braindead2408&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
-![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/braindead2408/braindead2408/blob/output/github-contribution-grid-snake.gif)
+<p align="center">
 
-<h1>
-  Connect With Me
-</h1>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=braindead2408&theme=tokyonight&hide_border=true"/>
 
-
-- [LinkedIn](https://www.linkedin.com/in/tanmay-n-5a920816b/)
-- [Stackoverflow](https://stackoverflow.com/users/edit/10722790)
-- [Github](https://github.com/braindead2408)
-- [Instagram](https://www.instagram.com/tanmay.2408/)  
-
-
-
-<div align="center">
-
-### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 <a href="https://github.com/braindead2408?tab=repositories">𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜</a>!
-
-</div>
-
-------
-<div align="center">
-<p>  
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/braindead2408?label=Followers&style=social"> •   
-  <img src="https://img.shields.io/github/stars/braindead2408?label=Stars" alt="Total Stars">
 </p>
 
-<p>Last edited on: 19/01/2022</p>
-</div>
+---
+
+# 📊 Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=braindead2408&theme=tokyo-night&hide_border=true"/>
+
+---
+
+# 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=braindead2408&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+
+---
+
+# 🐍 Contribution Snake
+
+> Enable the GitHub Action below and this animation will update automatically.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/braindead2408/braindead2408/output/github-contribution-grid-snake-dark.svg">
+</p>
+
+---
+
+# 📫 Connect
+
+<p>
+
+<a href="https://github.com/braindead2408">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="mailto:brainsniper2408@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+> **"No fluff. Just building useful things."**
+
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:050816,100:00E5FF"/>
