@@ -49,7 +49,7 @@ Currently Building:
 
 > Building modern software for startups and businesses.
 
-RootDevs helps startups and businesses build scalable digital products—from MVPs to enterprise-grade web and mobile applications—with a focus on quality, performance, and long-term maintainability. :contentReference[oaicite:0]{index=0}
+RootDevs helps startups and businesses build scalable digital products—from MVPs to enterprise-grade web and mobile applications—with a focus on quality, performance, and long-term maintainability.
 
 ### What we build
 
