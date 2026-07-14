@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Tanmay Nagepatil</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Associate+Manager+%40+Tata+Digital;Full+Stack+Developer;AI+%7C+LLMs+%7C+Automation;Building+Things+That+Matter" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI+%7C+LLMs+%7C+Automation;Building+Things+That+Matter" />
 </p>
 
 <p align="center">
