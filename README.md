@@ -111,26 +111,35 @@ RootDevs helps startups and businesses build scalable digital products—from MV
 OpenAI • Pandas • NumPy • SpaCy • Scikit-Learn
 
 ---
+# 🚀 Products I've Built
 
-# 📂 Featured Projects
+<table>
+<tr>
+<td width="50%">
 
-<a href="https://github.com/braindead2408">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=braindead2408&repo=YOUR_REPO_1&theme=tokyonight"/>
-</a>
+## 🌐 RootDevs
 
-<a href="https://github.com/braindead2408">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=braindead2408&repo=YOUR_REPO_2&theme=tokyonight"/>
-</a>
+Software consultancy focused on building scalable web, mobile and AI solutions for startups and businesses.
 
-<a href="https://github.com/braindead2408">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=braindead2408&repo=YOUR_REPO_3&theme=tokyonight"/>
-</a>
+**Tech:** React • TypeScript • Vite • Tailwind CSS • Shadcn UI
 
-<a href="https://github.com/braindead2408">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=braindead2408&repo=YOUR_REPO_4&theme=tokyonight"/>
-</a>
+🔗 https://www.rootdevs.com
 
----
+</td>
+
+<td width="50%">
+
+## 💪 ProInMotion Rehab
+
+A modern rehabilitation and physiotherapy platform with appointment booking, responsive UI, and SEO optimization.
+
+**Tech:** React • TypeScript • Supabase • Node.js
+
+🔗 https://promotionrehab.com
+
+</td>
+</tr>
+</table>
 
 # 📈 GitHub Statistics
 
@@ -156,15 +165,8 @@ OpenAI • Pandas • NumPy • SpaCy • Scikit-Learn
 
 ---
 
-# 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=braindead2408&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-
----
-
-# 🐍 Contribution Snake
-
-> Enable the GitHub Action below and this animation will update automatically.
+# 🐍 Contribution
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/braindead2408/braindead2408/output/github-contribution-grid-snake-dark.svg">
