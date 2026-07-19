@@ -123,7 +123,7 @@ Software consultancy focused on building scalable web, mobile and AI solutions f
 
 **Tech:** React • TypeScript • Vite • Tailwind CSS • Shadcn UI
 
-🔗 https://www.rootdevs.com
+🔗 https://www.rootdevs.pages
 
 </td>
 
